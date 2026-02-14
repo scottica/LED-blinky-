@@ -1,9 +1,9 @@
 # Astable multivibrator PCB
 
 
-<img width="300" height="400" alt="Screenshot 2025-12-29 at 11 16 33 AM" src="https://github.com/user-attachments/assets/59ef93ed-1d36-4a5d-afa3-5602755c385e" />
-<img width="300" height="400" alt="Screenshot 2026-02-13 at 7 53 06 PM" src="https://github.com/user-attachments/assets/e3d819b9-a79a-4a72-be24-9da0bb7b763c" />
-<img width="300" height="400" alt="Screenshot 2025-12-29 at 6 29 48 PM" src="https://github.com/user-attachments/assets/80565857-b612-4b14-bc86-a94168c4cea2" />
+<img width="200" height="400" alt="Screenshot 2025-12-29 at 11 16 33 AM" src="https://github.com/user-attachments/assets/59ef93ed-1d36-4a5d-afa3-5602755c385e" />
+<img width="200" height="400" alt="Screenshot 2026-02-13 at 7 53 06 PM" src="https://github.com/user-attachments/assets/e3d819b9-a79a-4a72-be24-9da0bb7b763c" />
+<img width="200" height="400" alt="Screenshot 2025-12-29 at 6 29 48 PM" src="https://github.com/user-attachments/assets/80565857-b612-4b14-bc86-a94168c4cea2" />
 
 ## 📌 Overview
 This repository contains the schematics, board layouts, and documentation for a custom, battery-powered LED blinker circuit. This project demonstrates an end-to-end hardware design process, from foundational circuit theory and simulation to a fully manufacturable Printed Circuit Board (PCB).
